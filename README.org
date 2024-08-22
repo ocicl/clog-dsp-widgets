@@ -2,8 +2,9 @@
 
 Widgets for DSP related interactive Guis using clog
 
-|---------+--------------------------------------------------|
-| source  | git:https://github.com/ormf/clog-dsp-widgets.git |
-| commit  | b0a4c65                                          |
-| systems | clog-dsp-widgets                                 |
-|---------+--------------------------------------------------|
+Temporarily redirected from git:https://github.com/ormf/clog-dsp-widgets.git
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/atgreen/clog-dsp-widgets.git |
+| commit  | a625bc7                                             |
+| systems | clog-dsp-widgets                                    |
+|---------+-----------------------------------------------------|
